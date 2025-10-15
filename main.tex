@@ -1,5 +1,5 @@
-\documentclass{article}
-\usepackage{graphicx,titling}
+\documentclass{report}
+\usepackage{graphicx,titling,titlesec}
 \usepackage{fancyhdr}
 \usepackage[backend=biber]{biblatex-chicago}
 \addbibresource{ref.bib}
@@ -17,6 +17,8 @@
   \printfield{note}%
   \finentry
 }
+
+\titleformat{\paragraph}{\normalfont\normalsize\scshape}{}{1em}{}
 
 \DeclareBibliographyAlias{archiveitem}{misc}
 
@@ -45,21 +47,37 @@
   \newpage
   \pagestyle{fancy}
 
-  \section*{Military-Carceral Spaces}
+
+  \chapter{Military-Carceral Spaces}\label{chap: 1} % (fold)
+  
+  \section*{Overview}
   During the Civil War, we see many instances of the intersection of the carceral and the military: of course in the form of the Prisoner-Of-War (POW) camp,
   but also in the less obvious forms of the internal disciplinary structures of the military, the observation and documentary knowledge of troops, and, more
   abstractly, in the panoptic geometries of both POW and military camps. I wish to explore these points of intersection, and in particular I wish to do this
   with reference to the particular convergences and divergences between the carceral spaces necessitated and developed by military means, and those more
   classical carceral spaces of the type Foucault investigated in \textit{Discipline and Punish} \autocite{Foucault1995}.
 
-  \section*{Military-Clinical Spaces}
+  % chapter  (end)
+
+  \chapter{Military-Clinical Spaces}\label{chap: 2} % (fold)
+  
   The approach I am taking to the intersection of the military and the carceral during the Civil War has been studied in some depth by \citeauthor{McNutt2024}
   and several others \autocites{McNutt2024}{McNutt2021}{McNutt2019}{McNutt2019a}. McNutt makes frequent reference to Foucault's \textit{Discipline and Punish} as a 
   means of understanding the relations of power in Civil War military prisons, and indeed the Foucaultian analysis of spaces is somewhat commonplace in military-geographic studies on POW camps (see, for instance, \citeauthor{Moran2022}). The same cannot be said of the approach I wish to take in understanding the
   intersection of the military and the clinical.
 
   Indeed, much of the literature on the medical aspects of the Civil War concerns the techniques of care, or otherwise the more individual aspects 
-  (\citeauthor{Devine2016} \citedate{Devine2016}). It is this gap, most of all, that I wish to fill.  
+  (\citeauthor{Devine2016} \citedate{Devine2016}). It is this gap, most of all, that I wish to fill. In order to do this, I want to look at the notes of and
+  correspondences of doctors working with the United States Sanitary Commission (USSC) both during and immediately following the war. In these materials 
+  (those which are most prescient to this investigation are included in the References), I have noticed several very interesting patterns, and, since I have
+  been reading these records at the same time as I have been reading Foucault's \textit{The Birth of the Clinic}, I have been able to connect theory to
+  content, and \textit{vice versa} \autocite{Foucault1994}.
+
+  These connections and patterns, and their meaning in the history of American medical thought, are as follows:
+  \paragraph{Epidemic medicine}\label{par:epidemic_medicine} % (fold)
+  
+  % paragraph Epidemic medicine (end)
+  % chapter  (end)
 
   \newpage
   \fancyhead[c]{References}

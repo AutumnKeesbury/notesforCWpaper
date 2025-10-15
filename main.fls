@@ -4,8 +4,8 @@ INPUT /usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-var/web2c/xetex/xelatex.fmt
 INPUT main.tex
 OUTPUT main.log
-INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
-INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/report.cls
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/report.cls
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/size10.clo
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/size10.clo
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/size10.clo
@@ -25,6 +25,8 @@ INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics-def/xetex.def
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics-def/xetex.def
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/titling/titling.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/titling/titling.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/titlesec/titlesec.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/titlesec/titlesec.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/biblatex-chicago/biblatex-chicago.sty
@@ -179,9 +181,6 @@ INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
 OUTPUT main.xdv
-INPUT ./logo.png
-INPUT ./logo.png
-INPUT ./logo.png
 INPUT main.aux
 INPUT ./main.out
 INPUT ./main.out

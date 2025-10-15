@@ -1,17 +1,17 @@
 # Fdb version 4
-["biber main"] 1760564118.41346 "main.bcf" "main.bbl" "main" 1760564120.79932 0
-  "main.bcf" 1760564120.48101 160959 f725a24d3d55f04972525dd06a66a8d5 "xelatex"
+["biber main"] 1760565016.03053 "main.bcf" "main.bbl" "main" 1760568823.81772 0
+  "main.bcf" 1760568823.52106 161027 d3e95101427e0cd7b0d97c860c0d5457 "xelatex"
   "ref.bib" 1760564116.24449 27627 ad7e39ab811c6991761470bb9ca45216 ""
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["xdvipdfmx"] 1760564120.51394 "main.xdv" "main.pdf" "main" 1760564120.80006 0
-  "main.xdv" 1760564120.48178 152868 b7e675f1f23d7cb89de74f6a52759270 "xelatex"
+["xdvipdfmx"] 1760568823.55494 "main.xdv" "main.pdf" "main" 1760568823.81846 0
+  "main.xdv" 1760568823.52215 162700 60ba8c24facfd7b5b1358be2aef6815a "xelatex"
   (generated)
   "main.pdf"
   (rewritten before read)
-["xelatex"] 1760564119.10738 "main.tex" "main.xdv" "main" 1760564120.79939 0
+["xelatex"] 1760568822.11395 "main.tex" "main.xdv" "main" 1760568823.81779 0
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
@@ -42,10 +42,10 @@
   "/usr/local/texlive/2024/texmf-dist/tex/generic/xstring/xstring.tex" 1692744296 49397 a8071cbd06dd0bb15ae8acf876c73f20 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/atveryend/atveryend.sty" 1728505250 1695 be6b4d13b33db697fd3fd30b24716c1a ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/auxhook/auxhook.sty" 1576625391 3935 57aa3c3e203a5c2effb4d2bd2efbc323 ""
-  "/usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls" 1705352648 20144 147463a6a579f4597269ef9565205cfe ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/base/atbegshi-ltx.sty" 1705352648 3045 273c666a54e60b9f730964f431a56c1b ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/base/atveryend-ltx.sty" 1705352648 2462 6bc53756156dbd71c1ad550d30a3b93f ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/base/ifthen.sty" 1705352648 5319 2b738d02ce36ada6dcdd9534940db0ee ""
+  "/usr/local/texlive/2024/texmf-dist/tex/latex/base/report.cls" 1705352648 23203 f5d913095ece2233436f0e628619cd37 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/base/size10.clo" 1705352648 8448 dbc0dbf4156c0bb9ba01a1c685d3bad0 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/base/ts1cmr.fd" 1705352648 2430 fce77d7e103eb98b6c4d486ae1d466c0 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex-chicago/biblatex-chicago.sty" 1656792401 10791 8fd9b2dc4fc7fd4c7c5fe9153a0851fd ""
@@ -85,18 +85,18 @@
   "/usr/local/texlive/2024/texmf-dist/tex/latex/logreq/logreq.sty" 1284153563 6187 b27afc771af565d3a9ff1ca7d16d0d46 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/refcount/refcount.sty" 1576624809 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657483315 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
+  "/usr/local/texlive/2024/texmf-dist/tex/latex/titlesec/titlesec.sty" 1698436711 48766 0b93839be28e9744a24c45075c75b2e2 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/titling/titling.sty" 1252107870 7358 95ac619994bd30d405a74f3eca431c84 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/url/url.sty" 1388531844 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "/usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf" 1708706663 41649 5d6ae549fbbcb850a863f69aa41f3d10 ""
   "/usr/local/texlive/2024/texmf-var/web2c/xetex/xelatex.fmt" 1735251190 10850165 cf86fb5f8268865a7292704ffeeddfd7 ""
   "/usr/local/texlive/2024/texmf.cnf" 1736870601.52976 622 7227d38535d975e6b0dc246caaffa333 ""
   "iu_trident_web_crimson.png" 1469019259 973 ecb89b759fef92cee3abf83c2ab1110b ""
-  "logo.png" 1759970274.64315 1526 4dc9b569c8b825fdee9b6796e3e3844e ""
-  "main.aux" 1760564120.47575 9070 ac91704074734fd613169baff52eb7c7 "xelatex"
-  "main.bbl" 1760564119.09754 94600 d7b7b26eee13e47cbc31669507d9b7d8 "biber main"
-  "main.out" 1760564120.05976 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
-  "main.run.xml" 1760564120.4817 2381 4f4f1bba49f68201722d3ad1d24ada5d "xelatex"
-  "main.tex" 1760563995.22724 2968 e90986f2d68eb12d53dc1ea5b143ace7 ""
+  "main.aux" 1760568823.51883 9930 01fd7d8b54e0052190662ad84b933609 "xelatex"
+  "main.bbl" 1760565016.79571 94580 871818c7ab94d164e83ff66581f65821 "biber main"
+  "main.out" 1760568823.52015 332 593b0620bfc0a8ab7d070b0cc3ab1f6a "xelatex"
+  "main.run.xml" 1760568823.52207 2381 4f4f1bba49f68201722d3ad1d24ada5d "xelatex"
+  "main.tex" 1760568821.95825 3956 62b74faf0848937bf24d5aab67227c89 ""
   (generated)
   "main.aux"
   "main.bcf"
