@@ -1,0 +1,68 @@
+\documentclass{article}
+\usepackage{graphicx,titling}
+\usepackage{fancyhdr}
+\usepackage[backend=biber]{biblatex-chicago}
+\addbibresource{ref.bib}
+\usepackage{hyperref}
+
+\DeclareBibliographyDriver{archiveitem}{%
+  \printfield{title}
+  \newunit\newblock
+  \printlist{author}%
+  \newunit\newblock
+  \printfield{reel}%
+  \newunit\newblock
+  \printfield{frame}%
+  \newunit\newblock
+  \printfield{note}%
+  \finentry
+}
+
+\DeclareBibliographyAlias{archiveitem}{misc}
+
+\usepackage[a4paper, headheight=1in, margin=1in]{geometry}
+
+\fancyhf{}
+\fancyhead[c]{\centering{\includegraphics[width=0.05\textwidth]{logo.png}}\\ \textsc{University of Indiana}}
+\fancyhead[r]{Keesbury \thepage}
+
+\newcommand{\logo}[2]{
+  \pretitle{
+  \begin{center}\includegraphics[width=0.2\textwidth]{#1}\\
+  \large{\textsc{#2}}\Large
+  \vskip10pt}
+  \posttitle{\end{center}}
+}
+
+\logo{iu_trident_web_crimson.png}{University of Indiana}
+\title{Notes on Military-Carceral, and Military-Clinical Spaces of the American Civil War}
+\author{Autumn Keesbury}
+\date{Fall 2025}
+
+\begin{document}
+  \maketitle
+  \thispagestyle{empty}
+  \newpage
+  \pagestyle{fancy}
+
+  \section*{Military-Carceral Spaces}
+  During the Civil War, we see many instances of the intersection of the carceral and the military: of course in the form of the Prisoner-Of-War (POW) camp,
+  but also in the less obvious forms of the internal disciplinary structures of the military, the observation and documentary knowledge of troops, and, more
+  abstractly, in the panoptic geometries of both POW and military camps. I wish to explore these points of intersection, and in particular I wish to do this
+  with reference to the particular convergences and divergences between the carceral spaces necessitated and developed by military means, and those more
+  classical carceral spaces of the type Foucault investigated in \textit{Discipline and Punish} \autocite{Foucault1995}.
+
+  \section*{Military-Clinical Spaces}
+  The approach I am taking to the intersection of the military and the carceral during the Civil War has been studied in some depth by \citeauthor{McNutt2024}
+  and several others \autocites{McNutt2024}{McNutt2021}{McNutt2019}{McNutt2019a}. McNutt makes frequent reference to Foucault's \textit{Discipline and Punish} as a 
+  means of understanding the relations of power in Civil War military prisons, and indeed the Foucaultian analysis of spaces is somewhat commonplace in military-geographic studies on POW camps (see, for instance, \citeauthor{Moran2022}). The same cannot be said of the approach I wish to take in understanding the
+  intersection of the military and the clinical.
+
+  Indeed, much of the literature on the medical aspects of the Civil War concerns the techniques of care, or otherwise the more human aspects 
+  (\citeauthor{Devine2016} \citedate{Devine2016}).
+
+  \newpage
+  \fancyhead[c]{References}
+  \nocite{*}
+  \printbibliography
+\end{document}
