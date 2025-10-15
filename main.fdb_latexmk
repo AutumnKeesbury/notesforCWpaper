@@ -1,17 +1,17 @@
 # Fdb version 4
-["biber main"] 1760493484.91984 "main.bcf" "main.bbl" "main" 1760493759.6625 0
-  "main.bcf" 1760493759.36031 160959 f725a24d3d55f04972525dd06a66a8d5 "xelatex"
-  "ref.bib" 1760492766.51173 27832 a70a571a9f7f227e15a4153957977fef ""
+["biber main"] 1760564118.41346 "main.bcf" "main.bbl" "main" 1760564120.79932 0
+  "main.bcf" 1760564120.48101 160959 f725a24d3d55f04972525dd06a66a8d5 "xelatex"
+  "ref.bib" 1760564116.24449 27627 ad7e39ab811c6991761470bb9ca45216 ""
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["xdvipdfmx"] 1760493759.3959 "main.xdv" "main.pdf" "main" 1760493759.6632 0
-  "main.xdv" 1760493759.36432 152132 5c0c9f2210c422b765dea94fb0eba25b "xelatex"
+["xdvipdfmx"] 1760564120.51394 "main.xdv" "main.pdf" "main" 1760564120.80006 0
+  "main.xdv" 1760564120.48178 152868 b7e675f1f23d7cb89de74f6a52759270 "xelatex"
   (generated)
   "main.pdf"
   (rewritten before read)
-["xelatex"] 1760493757.85724 "main.tex" "main.xdv" "main" 1760493759.66256 0
+["xelatex"] 1760564119.10738 "main.tex" "main.xdv" "main" 1760564120.79939 0
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
@@ -92,11 +92,11 @@
   "/usr/local/texlive/2024/texmf.cnf" 1736870601.52976 622 7227d38535d975e6b0dc246caaffa333 ""
   "iu_trident_web_crimson.png" 1469019259 973 ecb89b759fef92cee3abf83c2ab1110b ""
   "logo.png" 1759970274.64315 1526 4dc9b569c8b825fdee9b6796e3e3844e ""
-  "main.aux" 1760493759.35787 9070 0d71953e400d68f0757a900759ad9f83 "xelatex"
-  "main.bbl" 1760493485.69063 88669 353686ced0277a7248e9e5983cd158d8 "biber main"
-  "main.out" 1760493758.89752 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
-  "main.run.xml" 1760493759.36424 2381 4f4f1bba49f68201722d3ad1d24ada5d "xelatex"
-  "main.tex" 1760493757.56622 2966 aa6c893ac57120d90cd465fb1e0e205c ""
+  "main.aux" 1760564120.47575 9070 ac91704074734fd613169baff52eb7c7 "xelatex"
+  "main.bbl" 1760564119.09754 94600 d7b7b26eee13e47cbc31669507d9b7d8 "biber main"
+  "main.out" 1760564120.05976 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
+  "main.run.xml" 1760564120.4817 2381 4f4f1bba49f68201722d3ad1d24ada5d "xelatex"
+  "main.tex" 1760563995.22724 2968 e90986f2d68eb12d53dc1ea5b143ace7 ""
   (generated)
   "main.aux"
   "main.bcf"

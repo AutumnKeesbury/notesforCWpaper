@@ -43,6 +43,31 @@
       \field{title}{Notes on the health, ventilation, temperature, etc. on board Monitor "Catskill"}
       \true{nocite}
     \endentry
+    \entry{ussc:1:0356}{archiveitem}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f62acb055aa7c5c0f884c08f6afb294d}{%
+           family={Alexander},
+           familyi={A\bibinitperiod},
+           given={John\bibnamedelima R.H.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f62acb055aa7c5c0f884c08f6afb294d}
+      \strng{fullhash}{f62acb055aa7c5c0f884c08f6afb294d}
+      \strng{fullhashraw}{f62acb055aa7c5c0f884c08f6afb294d}
+      \strng{bibnamehash}{f62acb055aa7c5c0f884c08f6afb294d}
+      \strng{authorbibnamehash}{f62acb055aa7c5c0f884c08f6afb294d}
+      \strng{authornamehash}{f62acb055aa7c5c0f884c08f6afb294d}
+      \strng{authorfullhash}{f62acb055aa7c5c0f884c08f6afb294d}
+      \strng{authorfullhashraw}{f62acb055aa7c5c0f884c08f6afb294d}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Subjects include yellow fever and sailing vessels. Commissioner of Health.}
+      \field{title}{Report on quarantine and hygiene regulations in New Orleans, Louisiana}
+      \true{nocite}
+    \endentry
     \entry{ussc:9:1198}{archiveitem}{}{}
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
@@ -659,6 +684,30 @@
       \field{title}{Frost bite. Diet of prisoners in Richmond}
       \true{nocite}
     \endentry
+    \entry{ussc:1:0516}{archiveitem}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4576d385db299d4a0c73e3d9cf48d011}{%
+           family={Gastterman},
+           familyi={G\bibinitperiod},
+           given={Dr.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4576d385db299d4a0c73e3d9cf48d011}
+      \strng{fullhash}{4576d385db299d4a0c73e3d9cf48d011}
+      \strng{fullhashraw}{4576d385db299d4a0c73e3d9cf48d011}
+      \strng{bibnamehash}{4576d385db299d4a0c73e3d9cf48d011}
+      \strng{authorbibnamehash}{4576d385db299d4a0c73e3d9cf48d011}
+      \strng{authornamehash}{4576d385db299d4a0c73e3d9cf48d011}
+      \strng{authorfullhash}{4576d385db299d4a0c73e3d9cf48d011}
+      \strng{authorfullhashraw}{4576d385db299d4a0c73e3d9cf48d011}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Notes on Water}
+      \true{nocite}
+    \endentry
     \entry{ussc:6:0838}{archiveitem}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=544c658bd52663530850571fd25c96ba}{%
@@ -682,6 +731,30 @@
       \field{labeltitlesource}{title}
       \field{note}{Broadside enclosure letter 19 Dec. 1865. Sketch illustrating procedure to guard against cholera.}
       \field{title}{Cholera Caution to the Public!}
+      \true{nocite}
+    \endentry
+    \entry{ussc:9:0589}{archiveitem}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4a46e4fe5e21a4b28961fa44870afc13}{%
+           family={Hamilton},
+           familyi={H\bibinitperiod},
+           given={Dr.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4a46e4fe5e21a4b28961fa44870afc13}
+      \strng{fullhash}{4a46e4fe5e21a4b28961fa44870afc13}
+      \strng{fullhashraw}{4a46e4fe5e21a4b28961fa44870afc13}
+      \strng{bibnamehash}{4a46e4fe5e21a4b28961fa44870afc13}
+      \strng{authorbibnamehash}{4a46e4fe5e21a4b28961fa44870afc13}
+      \strng{authornamehash}{4a46e4fe5e21a4b28961fa44870afc13}
+      \strng{authorfullhash}{4a46e4fe5e21a4b28961fa44870afc13}
+      \strng{authorfullhashraw}{4a46e4fe5e21a4b28961fa44870afc13}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Hospital Gangrene}
       \true{nocite}
     \endentry
     \entry{ussc:4:0800}{archiveitem}{}{}
@@ -871,13 +944,6 @@
       \verb{doi}
       \verb 10.2307/1117420
       \endverb
-    \endentry
-    \entry{ussc:9:0589}{archiveitem}{}{}
-      \field{sortinit}{H}
-      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
-      \field{labeltitlesource}{title}
-      \field{title}{Hospital Gangrene}
-      \true{nocite}
     \endentry
     \entry{ussc:9:0255}{archiveitem}{}{}
       \field{sortinit}{H}
@@ -1164,26 +1230,78 @@
     \endentry
     \entry{ussc:6:0112}{archiveitem}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=f3e2673aaa9cb92ebd4d7a39797cf258}{%
+        {{un=0,uniquepart=base,hash=6302045d3fee656b7ccb03812984bae6}{%
            family={Lyman},
            familyi={L\bibinitperiod},
-           given={Dr.},
-           giveni={D\bibinitperiod},
+           given={Dr.\bibnamedelimi H.M.},
+           giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{f3e2673aaa9cb92ebd4d7a39797cf258}
-      \strng{fullhash}{f3e2673aaa9cb92ebd4d7a39797cf258}
-      \strng{fullhashraw}{f3e2673aaa9cb92ebd4d7a39797cf258}
-      \strng{bibnamehash}{f3e2673aaa9cb92ebd4d7a39797cf258}
-      \strng{authorbibnamehash}{f3e2673aaa9cb92ebd4d7a39797cf258}
-      \strng{authornamehash}{f3e2673aaa9cb92ebd4d7a39797cf258}
-      \strng{authorfullhash}{f3e2673aaa9cb92ebd4d7a39797cf258}
-      \strng{authorfullhashraw}{f3e2673aaa9cb92ebd4d7a39797cf258}
+      \strng{namehash}{6302045d3fee656b7ccb03812984bae6}
+      \strng{fullhash}{6302045d3fee656b7ccb03812984bae6}
+      \strng{fullhashraw}{6302045d3fee656b7ccb03812984bae6}
+      \strng{bibnamehash}{6302045d3fee656b7ccb03812984bae6}
+      \strng{authorbibnamehash}{6302045d3fee656b7ccb03812984bae6}
+      \strng{authornamehash}{6302045d3fee656b7ccb03812984bae6}
+      \strng{authorfullhash}{6302045d3fee656b7ccb03812984bae6}
+      \strng{authorfullhashraw}{6302045d3fee656b7ccb03812984bae6}
+      \field{extraname}{1}
       \field{sortinit}{L}
       \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Weather Record Jan.-Feb. 1863}
+      \true{nocite}
+    \endentry
+    \entry{ussc:7:0239}{archiveitem}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6302045d3fee656b7ccb03812984bae6}{%
+           family={Lyman},
+           familyi={L\bibinitperiod},
+           given={Dr.\bibnamedelimi H.M.},
+           giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6302045d3fee656b7ccb03812984bae6}
+      \strng{fullhash}{6302045d3fee656b7ccb03812984bae6}
+      \strng{fullhashraw}{6302045d3fee656b7ccb03812984bae6}
+      \strng{bibnamehash}{6302045d3fee656b7ccb03812984bae6}
+      \strng{authorbibnamehash}{6302045d3fee656b7ccb03812984bae6}
+      \strng{authornamehash}{6302045d3fee656b7ccb03812984bae6}
+      \strng{authorfullhash}{6302045d3fee656b7ccb03812984bae6}
+      \strng{authorfullhashraw}{6302045d3fee656b7ccb03812984bae6}
+      \field{extraname}{2}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{1864}
+      \field{title}{Weather records}
+      \true{nocite}
+    \endentry
+    \entry{ussc:6:0769}{archiveitem}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6302045d3fee656b7ccb03812984bae6}{%
+           family={Lyman},
+           familyi={L\bibinitperiod},
+           given={Dr.\bibnamedelimi H.M.},
+           giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6302045d3fee656b7ccb03812984bae6}
+      \strng{fullhash}{6302045d3fee656b7ccb03812984bae6}
+      \strng{fullhashraw}{6302045d3fee656b7ccb03812984bae6}
+      \strng{bibnamehash}{6302045d3fee656b7ccb03812984bae6}
+      \strng{authorbibnamehash}{6302045d3fee656b7ccb03812984bae6}
+      \strng{authornamehash}{6302045d3fee656b7ccb03812984bae6}
+      \strng{authorfullhash}{6302045d3fee656b7ccb03812984bae6}
+      \strng{authorfullhashraw}{6302045d3fee656b7ccb03812984bae6}
+      \field{extraname}{3}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Weather Report}
       \true{nocite}
     \endentry
     \entry{ussc:8:0246}{archiveitem}{}{}
@@ -1494,13 +1612,6 @@
       \verb 10.1177/03091325221080247
       \endverb
     \endentry
-    \entry{ussc:1:0516}{archiveitem}{}{}
-      \field{sortinit}{N}
-      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
-      \field{labeltitlesource}{title}
-      \field{title}{Notes on Water}
-      \true{nocite}
-    \endentry
     \entry{ussc:8:0012}{archiveitem}{}{}
       \field{sortinit}{O}
       \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
@@ -1626,33 +1737,11 @@
       \field{title}{Report concerning the treatment and condition of the wounded who fell into the hands of the enemy at Chickamauga}
       \true{nocite}
     \endentry
-    \entry{ussc:1:0131}{archiveitem}{}{}
-      \field{sortinit}{R}
-      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
-      \field{labeltitlesource}{title}
-      \field{title}{Report of General Field Hospital, Dept. of Tennessee organized at Chattanooga, TN 23 May 1864}
-      \true{nocite}
-    \endentry
     \entry{ussc:9:1136}{archiveitem}{}{}
       \field{sortinit}{R}
       \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
       \field{labeltitlesource}{title}
       \field{title}{Report of no. of cases (medical and surgical) treated in Hospital, 55th Regt. Ills. Vol. Infantry 1 Jul. 1863 to 1 Apr. 1864}
-      \true{nocite}
-    \endentry
-    \entry{ussc:1:0356}{archiveitem}{}{}
-      \field{sortinit}{R}
-      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
-      \field{labeltitlesource}{title}
-      \field{note}{Subjects include yellow fever and sailing vessels. Commissioner of Health.}
-      \field{title}{Report on quarantine and hygiene regulations in New Orleans, Louisiana}
-      \true{nocite}
-    \endentry
-    \entry{ussc:7:0295}{archiveitem}{}{}
-      \field{sortinit}{R}
-      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
-      \field{labeltitlesource}{title}
-      \field{title}{Report on the mental condition of soldiers from the Newberg Lunatic Asylum}
       \true{nocite}
     \endentry
     \entry{ussc:3:0282}{archiveitem}{}{}
@@ -1729,7 +1818,7 @@
       \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Reports by Dr. Ira Russell, esp. Nos. 1 \& 2}
+      \field{title}{Reports by Dr. Ira Russell}
       \true{nocite}
     \endentry
     \entry{Rutherford2024}{article}{}{}
@@ -1891,6 +1980,30 @@
       \field{dateera}{ce}
       \true{nocite}
     \endentry
+    \entry{ussc:7:0295}{archiveitem}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=64e9f6ea3eed39307874fbda9125313b}{%
+           family={Suft},
+           familyi={S\bibinitperiod},
+           given={B.\bibnamedelimi Stanton},
+           giveni={B\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{64e9f6ea3eed39307874fbda9125313b}
+      \strng{fullhash}{64e9f6ea3eed39307874fbda9125313b}
+      \strng{fullhashraw}{64e9f6ea3eed39307874fbda9125313b}
+      \strng{bibnamehash}{64e9f6ea3eed39307874fbda9125313b}
+      \strng{authorbibnamehash}{64e9f6ea3eed39307874fbda9125313b}
+      \strng{authornamehash}{64e9f6ea3eed39307874fbda9125313b}
+      \strng{authorfullhash}{64e9f6ea3eed39307874fbda9125313b}
+      \strng{authorfullhashraw}{64e9f6ea3eed39307874fbda9125313b}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Report on the mental condition of soldiers from the Newberg Lunatic Asylum}
+      \true{nocite}
+    \endentry
     \entry{ussc:1:0554}{archiveitem}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=9b901e09bc8adbd5a9ffb97c80232a92}{%
@@ -1953,21 +2066,6 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Consolidated statement of Mound City General Hospital from its foundation 1 Oct. 1861 to 31 Dec. 1863}
-      \true{nocite}
-    \endentry
-    \entry{ussc:7:0239}{archiveitem}{}{}
-      \field{sortinit}{W}
-      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
-      \field{labeltitlesource}{title}
-      \field{note}{1864}
-      \field{title}{Weather records}
-      \true{nocite}
-    \endentry
-    \entry{ussc:6:0769}{archiveitem}{}{}
-      \field{sortinit}{W}
-      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
-      \field{labeltitlesource}{title}
-      \field{title}{Weather Report}
       \true{nocite}
     \endentry
     \entry{Williams2020}{article}{}{}
@@ -2054,12 +2152,38 @@
       \strng{authornamehash}{70a90a2189ade1407ab0ae6c92f02abe}
       \strng{authorfullhash}{70a90a2189ade1407ab0ae6c92f02abe}
       \strng{authorfullhashraw}{70a90a2189ade1407ab0ae6c92f02abe}
+      \field{extraname}{1}
       \field{sortinit}{W}
       \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{Act. Med. Inspector 15th A.C.}
       \field{title}{15th A.C. Tabular statement, showing the percentage taken sick from 1 Sept. 1863 to 1 Apr. 1864}
+      \true{nocite}
+    \endentry
+    \entry{ussc:1:0131}{archiveitem}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=70a90a2189ade1407ab0ae6c92f02abe}{%
+           family={Woodworth},
+           familyi={W\bibinitperiod},
+           given={Jno.\bibnamedelimi M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{70a90a2189ade1407ab0ae6c92f02abe}
+      \strng{fullhash}{70a90a2189ade1407ab0ae6c92f02abe}
+      \strng{fullhashraw}{70a90a2189ade1407ab0ae6c92f02abe}
+      \strng{bibnamehash}{70a90a2189ade1407ab0ae6c92f02abe}
+      \strng{authorbibnamehash}{70a90a2189ade1407ab0ae6c92f02abe}
+      \strng{authornamehash}{70a90a2189ade1407ab0ae6c92f02abe}
+      \strng{authorfullhash}{70a90a2189ade1407ab0ae6c92f02abe}
+      \strng{authorfullhashraw}{70a90a2189ade1407ab0ae6c92f02abe}
+      \field{extraname}{2}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Report of General Field Hospital, Dept. of Tennessee organized at Chattanooga, TN 23 May 1864}
       \true{nocite}
     \endentry
   \enddatalist
