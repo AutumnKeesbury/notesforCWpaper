@@ -19,7 +19,7 @@
 
 \refsection{0}
   \datalist[entry]{cms/global//global/global/global}
-    \entry{ussc:10:0318}{archiveitem}{}{}
+    \entry{ussc:10:0318}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=33d3cff420b3c528d253729b1bdf7ad2}{%
            family={Abbott},
@@ -40,42 +40,18 @@
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{howpublished}{United States Sanitary Commission Records (GPD E621 .U657 1996a)}
       \field{title}{Notes on the health, ventilation, temperature, etc. on board Monitor "Catskill"}
       \true{nocite}
     \endentry
-    \entry{ussc:1:0356}{archiveitem}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=f62acb055aa7c5c0f884c08f6afb294d}{%
-           family={Alexander},
-           familyi={A\bibinitperiod},
-           given={John\bibnamedelima R.H.},
-           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{f62acb055aa7c5c0f884c08f6afb294d}
-      \strng{fullhash}{f62acb055aa7c5c0f884c08f6afb294d}
-      \strng{fullhashraw}{f62acb055aa7c5c0f884c08f6afb294d}
-      \strng{bibnamehash}{f62acb055aa7c5c0f884c08f6afb294d}
-      \strng{authorbibnamehash}{f62acb055aa7c5c0f884c08f6afb294d}
-      \strng{authornamehash}{f62acb055aa7c5c0f884c08f6afb294d}
-      \strng{authorfullhash}{f62acb055aa7c5c0f884c08f6afb294d}
-      \strng{authorfullhashraw}{f62acb055aa7c5c0f884c08f6afb294d}
-      \field{sortinit}{A}
-      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{Subjects include yellow fever and sailing vessels. Commissioner of Health.}
-      \field{title}{Report on quarantine and hygiene regulations in New Orleans, Louisiana}
-      \true{nocite}
-    \endentry
-    \entry{ussc:9:1198}{archiveitem}{}{}
+    \entry{ussc:9:1198}{misc}{}{}
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{labeltitlesource}{title}
+      \field{howpublished}{United States Sanitary Commission Records (GPD E621 .U657 1996a)}
       \field{title}{An account of the epidemic of hospital gangrene at Chattanooga, Tenn. 1863-1864}
-      \true{nocite}
     \endentry
-    \entry{ussc:8:0733}{archiveitem}{}{}
+    \entry{ussc:8:0733}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=d972a756a88fe10600c557b8eed87145}{%
            family={Andrew},
@@ -96,11 +72,12 @@
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{howpublished}{United States Sanitary Commission Records (GPD E621 .U657 1996a)}
       \field{note}{24 Feb. 1866. La Porte, IN.}
       \field{title}{Letter to Dr. Elisha Harris regarding sanitary history}
       \true{nocite}
     \endentry
-    \entry{ussc:9:1118}{archiveitem}{}{}
+    \entry{ussc:9:1118}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=c27c94f50eee1c90557b5369ef334482}{%
            family={Andrews},
@@ -122,10 +99,11 @@
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{howpublished}{United States Sanitary Commission Records (GPD E621 .U657 1996a)}
       \field{title}{Report of no. of patients, etc. for Oct. 1862. U.S. General Hospital, Mound City, IL}
       \true{nocite}
     \endentry
-    \entry{ussc:9:1086}{archiveitem}{}{}
+    \entry{ussc:9:1086}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=c27c94f50eee1c90557b5369ef334482}{%
            family={Andrews},
@@ -147,10 +125,11 @@
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{howpublished}{United States Sanitary Commission Records (GPD E621 .U657 1996a)}
       \field{title}{Tabular statement of medical and surgical cases for one month. Mower Hospital}
       \true{nocite}
     \endentry
-    \entry{ussc:9:1098}{archiveitem}{}{}
+    \entry{ussc:9:1098}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=c27c94f50eee1c90557b5369ef334482}{%
            family={Andrews},
@@ -172,10 +151,11 @@
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{howpublished}{United States Sanitary Commission Records (GPD E621 .U657 1996a)}
       \field{title}{U.S. Marine Hospital. St. Louis, MO. Statistics for 1863}
       \true{nocite}
     \endentry
-    \entry{ussc:9:0159}{archiveitem}{}{}
+    \entry{ussc:9:0159}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=11a90c0130deb50f403c575c19e8da8f}{%
            family={Avery},
@@ -196,13 +176,15 @@
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{howpublished}{United States Sanitary Commission Records (GPD E621 .U657 1996a)}
       \field{title}{Report of sanitary management of the US forces at Ship Island, Miss. 1861-1862}
       \true{nocite}
     \endentry
-    \entry{ussc:4:0791}{archiveitem}{}{}
+    \entry{ussc:4:0791}{misc}{}{}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{labeltitlesource}{title}
+      \field{howpublished}{United States Sanitary Commission Records (GPD E621 .U657 1996a)}
       \field{note}{Map}
       \field{title}{Battlefield of Chattanooga}
       \true{nocite}
@@ -285,7 +267,7 @@
       \verb 10.1076/jhin.11.1.11.9108
       \endverb
     \endentry
-    \entry{ussc:5:0535}{archiveitem}{}{}
+    \entry{ussc:5:0535}{misc}{}{}
       \name{author}{1}{}{%
         {{un=1,uniquepart=given,hash=6d0e073370732f52382d85d98632771f}{%
            family={Clendenin},
@@ -306,11 +288,12 @@
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{howpublished}{United States Sanitary Commission Records (GPD E621 .U657 1996a)}
       \field{note}{4 Dec. 1865}
       \field{title}{Death rates; hospital records of St. Louis and other hospitals}
       \true{nocite}
     \endentry
-    \entry{ussc:7:0900}{archiveitem}{}{}
+    \entry{ussc:7:0900}{misc}{}{}
       \name{author}{1}{}{%
         {{un=1,uniquepart=given,hash=c24358f031ce027089d503c785c69407}{%
            family={Clendenin},
@@ -331,18 +314,20 @@
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{howpublished}{United States Sanitary Commission Records (GPD E621 .U657 1996a)}
       \field{title}{Hospital Statistics}
       \true{nocite}
     \endentry
-    \entry{ussc:9:1178}{archiveitem}{}{}
+    \entry{ussc:9:1178}{misc}{}{}
       \field{sortinit}{C}
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{labeltitlesource}{title}
+      \field{howpublished}{United States Sanitary Commission Records (GPD E621 .U657 1996a)}
       \field{note}{11 June 1862.}
       \field{title}{Consolidated morning report of the sanitary condition of General Peck's Brigade}
       \true{nocite}
     \endentry
-    \entry{ussc:9:0797}{archiveitem}{}{}
+    \entry{ussc:9:0797}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=cb44278f86aaf8683e7c1ac72375676f}{%
            family={Cook},
@@ -363,11 +348,12 @@
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{howpublished}{United States Sanitary Commission Records (GPD E621 .U657 1996a)}
       \field{note}{Surgeon in charge 1st Division Hospital (field).}
       \field{title}{Report upon the condition, removal, etc. of wounded from Chickamauga}
       \true{nocite}
     \endentry
-    \entry{ussc:9:1164}{archiveitem}{}{}
+    \entry{ussc:9:1164}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=3aa6f8b699a9f5a0d4ffc6f7013b423e}{%
            family={Crosby},
@@ -388,6 +374,7 @@
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{howpublished}{United States Sanitary Commission Records (GPD E621 .U657 1996a)}
       \field{note}{Division Surgeon 1862.}
       \field{title}{Report on ambulances and hospital tents}
       \true{nocite}
@@ -537,7 +524,7 @@
       \verb 10.1353/cwe.2016.0038
       \endverb
     \endentry
-    \entry{ussc:10:0377}{archiveitem}{}{}
+    \entry{ussc:10:0377}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=e33b3fd50d4043fdbd620596c7a0a619}{%
            family={Finley},
@@ -558,10 +545,11 @@
       \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{howpublished}{United States Sanitary Commission Records (GPD E621 .U657 1996a)}
       \field{title}{Orders from surgeon General Finley relative to hospital inspections by members of the Sanitary Commission}
       \true{nocite}
     \endentry
-    \entry{ussc:9:1091}{archiveitem}{}{}
+    \entry{ussc:9:1091}{misc}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=cd36d735208dc652781f1e89dce51037}{%
            family={Flint},
@@ -588,6 +576,7 @@
       \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{howpublished}{United States Sanitary Commission Records (GPD E621 .U657 1996a)}
       \field{note}{By Asst. Surgeon Amos S. Flint, 8th MO.}
       \field{title}{Report of 2nd Division field Hospital 15th A.C., Vicksburg; organized May 19, 1863}
       \true{nocite}
@@ -676,38 +665,15 @@
       \field{year}{1994}
       \field{dateera}{ce}
     \endentry
-    \entry{ussc:8:0850}{archiveitem}{}{}
+    \entry{ussc:8:0850}{misc}{}{}
       \field{sortinit}{F}
       \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
       \field{labeltitlesource}{title}
+      \field{howpublished}{United States Sanitary Commission Records (GPD E621 .U657 1996a)}
       \field{title}{Frost bite. Diet of prisoners in Richmond}
       \true{nocite}
     \endentry
-    \entry{ussc:1:0516}{archiveitem}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=4576d385db299d4a0c73e3d9cf48d011}{%
-           family={Gastterman},
-           familyi={G\bibinitperiod},
-           given={Dr.},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{4576d385db299d4a0c73e3d9cf48d011}
-      \strng{fullhash}{4576d385db299d4a0c73e3d9cf48d011}
-      \strng{fullhashraw}{4576d385db299d4a0c73e3d9cf48d011}
-      \strng{bibnamehash}{4576d385db299d4a0c73e3d9cf48d011}
-      \strng{authorbibnamehash}{4576d385db299d4a0c73e3d9cf48d011}
-      \strng{authornamehash}{4576d385db299d4a0c73e3d9cf48d011}
-      \strng{authorfullhash}{4576d385db299d4a0c73e3d9cf48d011}
-      \strng{authorfullhashraw}{4576d385db299d4a0c73e3d9cf48d011}
-      \field{sortinit}{G}
-      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Notes on Water}
-      \true{nocite}
-    \endentry
-    \entry{ussc:6:0838}{archiveitem}{}{}
+    \entry{ussc:6:0838}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=544c658bd52663530850571fd25c96ba}{%
            family={Hall},
@@ -728,35 +694,12 @@
       \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{howpublished}{United States Sanitary Commission Records (GPD E621 .U657 1996a)}
       \field{note}{Broadside enclosure letter 19 Dec. 1865. Sketch illustrating procedure to guard against cholera.}
       \field{title}{Cholera Caution to the Public!}
       \true{nocite}
     \endentry
-    \entry{ussc:9:0589}{archiveitem}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=4a46e4fe5e21a4b28961fa44870afc13}{%
-           family={Hamilton},
-           familyi={H\bibinitperiod},
-           given={Dr.},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{4a46e4fe5e21a4b28961fa44870afc13}
-      \strng{fullhash}{4a46e4fe5e21a4b28961fa44870afc13}
-      \strng{fullhashraw}{4a46e4fe5e21a4b28961fa44870afc13}
-      \strng{bibnamehash}{4a46e4fe5e21a4b28961fa44870afc13}
-      \strng{authorbibnamehash}{4a46e4fe5e21a4b28961fa44870afc13}
-      \strng{authornamehash}{4a46e4fe5e21a4b28961fa44870afc13}
-      \strng{authorfullhash}{4a46e4fe5e21a4b28961fa44870afc13}
-      \strng{authorfullhashraw}{4a46e4fe5e21a4b28961fa44870afc13}
-      \field{sortinit}{H}
-      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Hospital Gangrene}
-      \true{nocite}
-    \endentry
-    \entry{ussc:4:0800}{archiveitem}{}{}
+    \entry{ussc:4:0800}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=f273378872f0bbaef7d1b1499fc37d89}{%
            family={Hammond},
@@ -777,6 +720,7 @@
       \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{howpublished}{United States Sanitary Commission Records (GPD E621 .U657 1996a)}
       \field{title}{General Hammond's plans. Treatise on Hospitals}
       \true{nocite}
     \endentry
@@ -858,7 +802,7 @@
       \verb 10.1007/bf01379410
       \endverb
     \endentry
-    \entry{ussc:4:0510}{archiveitem}{}{}
+    \entry{ussc:4:0510}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ca636cb2f76b52c3b616eeca11186d8f}{%
            family={Hilgard},
@@ -879,6 +823,7 @@
       \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{howpublished}{United States Sanitary Commission Records (GPD E621 .U657 1996a)}
       \field{note}{Letter from Col. Hilgard. 10 Nov. 1865}
       \field{title}{Coast survey maps and charts}
       \true{nocite}
@@ -944,14 +889,23 @@
       \verb 10.2307/1117420
       \endverb
     \endentry
-    \entry{ussc:9:0255}{archiveitem}{}{}
+    \entry{ussc:9:0589}{misc}{}{}
       \field{sortinit}{H}
       \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
       \field{labeltitlesource}{title}
+      \field{howpublished}{United States Sanitary Commission Records (GPD E621 .U657 1996a)}
+      \field{title}{Hospital Gangrene}
+      \true{nocite}
+    \endentry
+    \entry{ussc:9:0255}{misc}{}{}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{United States Sanitary Commission Records (GPD E621 .U657 1996a)}
       \field{title}{Hospital map. Battle of Gettysburg}
       \true{nocite}
     \endentry
-    \entry{ussc:9:0388}{archiveitem}{}{}
+    \entry{ussc:9:0388}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=5c69a2183852025522888a730e6ea909}{%
            family={Howard},
@@ -972,10 +926,10 @@
       \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{howpublished}{United States Sanitary Commission Records (GPD E621 .U657 1996a)}
       \field{title}{A case of death during the administration of chloroform}
-      \true{nocite}
     \endentry
-    \entry{ussc:8:0602}{archiveitem}{}{}
+    \entry{ussc:8:0602}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=000d9b66125974fc0b8f679433010c73}{%
            family={Hunt},
@@ -997,10 +951,11 @@
       \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{howpublished}{United States Sanitary Commission Records (GPD E621 .U657 1996a)}
       \field{title}{Hygienic history of the Alabama campaign of the spring of 1865, including the capture of Mobile}
       \true{nocite}
     \endentry
-    \entry{ussc:7:0834}{archiveitem}{}{}
+    \entry{ussc:7:0834}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=000d9b66125974fc0b8f679433010c73}{%
            family={Hunt},
@@ -1022,10 +977,11 @@
       \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{howpublished}{United States Sanitary Commission Records (GPD E621 .U657 1996a)}
       \field{title}{Medical geography of the region east of the Mississippi}
       \true{nocite}
     \endentry
-    \entry{ussc:6:0990}{archiveitem}{}{}
+    \entry{ussc:6:0990}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=000d9b66125974fc0b8f679433010c73}{%
            family={Hunt},
@@ -1047,10 +1003,10 @@
       \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{howpublished}{United States Sanitary Commission Records (GPD E621 .U657 1996a)}
       \field{title}{Medical Topography of the region west of the Mississippi}
-      \true{nocite}
     \endentry
-    \entry{ussc:4:0251}{archiveitem}{}{}
+    \entry{ussc:4:0251}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=000d9b66125974fc0b8f679433010c73}{%
            family={Hunt},
@@ -1072,10 +1028,11 @@
       \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{howpublished}{United States Sanitary Commission Records (GPD E621 .U657 1996a)}
       \field{title}{Report on convalescent camps}
       \true{nocite}
     \endentry
-    \entry{ussc:10:0380}{archiveitem}{}{}
+    \entry{ussc:10:0380}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=000d9b66125974fc0b8f679433010c73}{%
            family={Hunt},
@@ -1097,10 +1054,11 @@
       \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{howpublished}{United States Sanitary Commission Records (GPD E621 .U657 1996a)}
       \field{title}{The influence of scorbutic diatesis on surgical accidents}
       \true{nocite}
     \endentry
-    \entry{ussc:10:0325}{archiveitem}{}{}
+    \entry{ussc:10:0325}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=83348e9dade2178e219172d1159861c8}{%
            family={Jones},
@@ -1121,6 +1079,7 @@
       \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{howpublished}{United States Sanitary Commission Records (GPD E621 .U657 1996a)}
       \field{note}{Prof. J. Jones.}
       \field{title}{Investigation on Hospital Gangrene}
       \true{nocite}
@@ -1203,7 +1162,7 @@
       \verb 10.1093/jsh/shu130
       \endverb
     \endentry
-    \entry{ussc:9:0284}{archiveitem}{}{}
+    \entry{ussc:9:0284}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=e4da149bffab6471fb649f7c8545f2ec}{%
            family={Leale},
@@ -1224,86 +1183,35 @@
       \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{howpublished}{United States Sanitary Commission Records (GPD E621 .U657 1996a)}
       \field{title}{Gunshot wound of upper third of tibia; recovery without amputation}
       \true{nocite}
     \endentry
-    \entry{ussc:6:0112}{archiveitem}{}{}
+    \entry{ussc:6:0112}{misc}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=6302045d3fee656b7ccb03812984bae6}{%
+        {{un=0,uniquepart=base,hash=f3e2673aaa9cb92ebd4d7a39797cf258}{%
            family={Lyman},
            familyi={L\bibinitperiod},
-           given={Dr.\bibnamedelimi H.M.},
-           giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod},
+           given={Dr.},
+           giveni={D\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{6302045d3fee656b7ccb03812984bae6}
-      \strng{fullhash}{6302045d3fee656b7ccb03812984bae6}
-      \strng{fullhashraw}{6302045d3fee656b7ccb03812984bae6}
-      \strng{bibnamehash}{6302045d3fee656b7ccb03812984bae6}
-      \strng{authorbibnamehash}{6302045d3fee656b7ccb03812984bae6}
-      \strng{authornamehash}{6302045d3fee656b7ccb03812984bae6}
-      \strng{authorfullhash}{6302045d3fee656b7ccb03812984bae6}
-      \strng{authorfullhashraw}{6302045d3fee656b7ccb03812984bae6}
-      \field{extraname}{1}
+      \strng{namehash}{f3e2673aaa9cb92ebd4d7a39797cf258}
+      \strng{fullhash}{f3e2673aaa9cb92ebd4d7a39797cf258}
+      \strng{fullhashraw}{f3e2673aaa9cb92ebd4d7a39797cf258}
+      \strng{bibnamehash}{f3e2673aaa9cb92ebd4d7a39797cf258}
+      \strng{authorbibnamehash}{f3e2673aaa9cb92ebd4d7a39797cf258}
+      \strng{authornamehash}{f3e2673aaa9cb92ebd4d7a39797cf258}
+      \strng{authorfullhash}{f3e2673aaa9cb92ebd4d7a39797cf258}
+      \strng{authorfullhashraw}{f3e2673aaa9cb92ebd4d7a39797cf258}
       \field{sortinit}{L}
       \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{howpublished}{United States Sanitary Commission Records (GPD E621 .U657 1996a)}
       \field{title}{Weather Record Jan.-Feb. 1863}
-      \true{nocite}
     \endentry
-    \entry{ussc:7:0239}{archiveitem}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=6302045d3fee656b7ccb03812984bae6}{%
-           family={Lyman},
-           familyi={L\bibinitperiod},
-           given={Dr.\bibnamedelimi H.M.},
-           giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{6302045d3fee656b7ccb03812984bae6}
-      \strng{fullhash}{6302045d3fee656b7ccb03812984bae6}
-      \strng{fullhashraw}{6302045d3fee656b7ccb03812984bae6}
-      \strng{bibnamehash}{6302045d3fee656b7ccb03812984bae6}
-      \strng{authorbibnamehash}{6302045d3fee656b7ccb03812984bae6}
-      \strng{authornamehash}{6302045d3fee656b7ccb03812984bae6}
-      \strng{authorfullhash}{6302045d3fee656b7ccb03812984bae6}
-      \strng{authorfullhashraw}{6302045d3fee656b7ccb03812984bae6}
-      \field{extraname}{2}
-      \field{sortinit}{L}
-      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{1864}
-      \field{title}{Weather records}
-      \true{nocite}
-    \endentry
-    \entry{ussc:6:0769}{archiveitem}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=6302045d3fee656b7ccb03812984bae6}{%
-           family={Lyman},
-           familyi={L\bibinitperiod},
-           given={Dr.\bibnamedelimi H.M.},
-           giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{6302045d3fee656b7ccb03812984bae6}
-      \strng{fullhash}{6302045d3fee656b7ccb03812984bae6}
-      \strng{fullhashraw}{6302045d3fee656b7ccb03812984bae6}
-      \strng{bibnamehash}{6302045d3fee656b7ccb03812984bae6}
-      \strng{authorbibnamehash}{6302045d3fee656b7ccb03812984bae6}
-      \strng{authornamehash}{6302045d3fee656b7ccb03812984bae6}
-      \strng{authorfullhash}{6302045d3fee656b7ccb03812984bae6}
-      \strng{authorfullhashraw}{6302045d3fee656b7ccb03812984bae6}
-      \field{extraname}{3}
-      \field{sortinit}{L}
-      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Weather Report}
-      \true{nocite}
-    \endentry
-    \entry{ussc:8:0246}{archiveitem}{}{}
+    \entry{ussc:8:0246}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=f9fe6136e766a9806473415c9ad92173}{%
            family={McDonald},
@@ -1325,10 +1233,11 @@
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{howpublished}{United States Sanitary Commission Records (GPD E621 .U657 1996a)}
       \field{title}{Dr. A. McDonald's notes upon sanitary experience in the field and at depot hospitals}
       \true{nocite}
     \endentry
-    \entry{ussc:6:0267}{archiveitem}{}{}
+    \entry{ussc:6:0267}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=f9fe6136e766a9806473415c9ad92173}{%
            family={McDonald},
@@ -1350,6 +1259,7 @@
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{howpublished}{United States Sanitary Commission Records (GPD E621 .U657 1996a)}
       \field{note}{26 Dec. 1865}
       \field{title}{Massachusetts School for the Idiotic and Feeble-Minded Youth}
       \true{nocite}
@@ -1515,10 +1425,11 @@
       \verb 10.1080/15740773.2019.1732062
       \endverb
     \endentry
-    \entry{ussc:11:0685}{archiveitem}{}{}
+    \entry{ussc:11:0685}{misc}{}{}
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{labeltitlesource}{title}
+      \field{howpublished}{United States Sanitary Commission Records (GPD E621 .U657 1996a)}
       \field{title}{Medical Dept.: Organization rules and regulations}
       \true{nocite}
     \endentry
@@ -1560,10 +1471,11 @@
       \verb 10.2307/1229442
       \endverb
     \endentry
-    \entry{ussc:10:1040}{archiveitem}{}{}
+    \entry{ussc:10:1040}{misc}{}{}
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{labeltitlesource}{title}
+      \field{howpublished}{United States Sanitary Commission Records (GPD E621 .U657 1996a)}
       \field{title}{Miscellaneous regulations, etc. in the hospital at Richmond, VA}
       \true{nocite}
     \endentry
@@ -1611,10 +1523,19 @@
       \verb 10.1177/03091325221080247
       \endverb
     \endentry
-    \entry{ussc:8:0012}{archiveitem}{}{}
+    \entry{ussc:1:0516}{misc}{}{}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{United States Sanitary Commission Records (GPD E621 .U657 1996a)}
+      \field{title}{Notes on Water}
+      \true{nocite}
+    \endentry
+    \entry{ussc:8:0012}{misc}{}{}
       \field{sortinit}{O}
       \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
       \field{labeltitlesource}{title}
+      \field{howpublished}{United States Sanitary Commission Records (GPD E621 .U657 1996a)}
       \field{title}{Opening remarks upon food as a hygienic element}
       \true{nocite}
     \endentry
@@ -1657,7 +1578,7 @@
       \verb 10.1097/00006199-199201000-00006
       \endverb
     \endentry
-    \entry{ussc:7:0373}{archiveitem}{}{}
+    \entry{ussc:7:0373}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=d2fd7c9dc87291532d1e753bdff798f1}{%
            family={Read},
@@ -1678,13 +1599,15 @@
       \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{howpublished}{United States Sanitary Commission Records (GPD E621 .U657 1996a)}
       \field{title}{Memo of hospitals inspections 1865}
       \true{nocite}
     \endentry
-    \entry{ussc:10:0955}{archiveitem}{}{}
+    \entry{ussc:10:0955}{misc}{}{}
       \field{sortinit}{R}
       \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
       \field{labeltitlesource}{title}
+      \field{howpublished}{United States Sanitary Commission Records (GPD E621 .U657 1996a)}
       \field{note}{Translated from "Our Times", Berlin 1866.}
       \field{title}{Reforms in the sanitary service of armies in the Prussian and German States}
       \true{nocite}
@@ -1728,22 +1651,49 @@
       \verb 10.1080/08998280.2016.11929390
       \endverb
     \endentry
-    \entry{ussc:9:0783}{archiveitem}{}{}
+    \entry{ussc:9:0783}{misc}{}{}
       \field{sortinit}{R}
       \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
       \field{labeltitlesource}{title}
+      \field{howpublished}{United States Sanitary Commission Records (GPD E621 .U657 1996a)}
       \field{note}{Table showing percentage of recoveries. 12 Jan. 1864.}
       \field{title}{Report concerning the treatment and condition of the wounded who fell into the hands of the enemy at Chickamauga}
       \true{nocite}
     \endentry
-    \entry{ussc:9:1136}{archiveitem}{}{}
+    \entry{ussc:1:0131}{misc}{}{}
       \field{sortinit}{R}
       \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
       \field{labeltitlesource}{title}
+      \field{howpublished}{United States Sanitary Commission Records (GPD E621 .U657 1996a)}
+      \field{title}{Report of General Field Hospital, Dept. of Tennessee organized at Chattanooga, TN 23 May 1864}
+      \true{nocite}
+    \endentry
+    \entry{ussc:9:1136}{misc}{}{}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{United States Sanitary Commission Records (GPD E621 .U657 1996a)}
       \field{title}{Report of no. of cases (medical and surgical) treated in Hospital, 55th Regt. Ills. Vol. Infantry 1 Jul. 1863 to 1 Apr. 1864}
       \true{nocite}
     \endentry
-    \entry{ussc:3:0282}{archiveitem}{}{}
+    \entry{ussc:1:0356}{misc}{}{}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{United States Sanitary Commission Records (GPD E621 .U657 1996a)}
+      \field{note}{Subjects include yellow fever and sailing vessels. Commissioner of Health.}
+      \field{title}{Report on quarantine and hygiene regulations in New Orleans, Louisiana}
+      \true{nocite}
+    \endentry
+    \entry{ussc:7:0295}{misc}{}{}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{United States Sanitary Commission Records (GPD E621 .U657 1996a)}
+      \field{title}{Report on the mental condition of soldiers from the Newberg Lunatic Asylum}
+      \true{nocite}
+    \endentry
+    \entry{ussc:3:0282}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=17017bff305652e5b333390dcbbf8927}{%
            family={Russell},
@@ -1765,11 +1715,12 @@
       \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{howpublished}{United States Sanitary Commission Records (GPD E621 .U657 1996a)}
       \field{note}{Alexandria, VA.}
       \field{title}{Dr. Russell's report. Hospital L'Overture}
       \true{nocite}
     \endentry
-    \entry{ussc:1:0674}{archiveitem}{}{}
+    \entry{ussc:1:0674}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=17017bff305652e5b333390dcbbf8927}{%
            family={Russell},
@@ -1791,11 +1742,12 @@
       \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{howpublished}{United States Sanitary Commission Records (GPD E621 .U657 1996a)}
       \field{note}{9 Sept. 1865. Slough Hospital, Alexandria, VA.}
       \field{title}{Report on Slough Hospital}
       \true{nocite}
     \endentry
-    \entry{ussc:2:0171}{archiveitem}{}{}
+    \entry{ussc:2:0171}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=17017bff305652e5b333390dcbbf8927}{%
            family={Russell},
@@ -1817,6 +1769,7 @@
       \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{howpublished}{United States Sanitary Commission Records (GPD E621 .U657 1996a)}
       \field{title}{Reports by Dr. Ira Russell}
       \true{nocite}
     \endentry
@@ -1857,7 +1810,7 @@
       \verb 10.70658/2693-3225.1237
       \endverb
     \endentry
-    \entry{ussc:6:0153}{archiveitem}{}{}
+    \entry{ussc:6:0153}{misc}{}{}
       \name{author}{1}{}{%
         {{un=1,uniquepart=given,hash=d4569f6e032c9933f8b392022c3cb133}{%
            family={Smith},
@@ -1878,10 +1831,11 @@
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{howpublished}{United States Sanitary Commission Records (GPD E621 .U657 1996a)}
       \field{title}{Record of all men discharged from the service of the U.S. at Fairfax Seminary Hospital 1865}
       \true{nocite}
     \endentry
-    \entry{ussc:5:0528}{archiveitem}{}{}
+    \entry{ussc:5:0528}{misc}{}{}
       \name{author}{1}{}{%
         {{un=1,uniquepart=given,hash=7ae8768f75f0cd321c180a3ccd87e6eb}{%
            family={Smith},
@@ -1902,11 +1856,12 @@
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{howpublished}{United States Sanitary Commission Records (GPD E621 .U657 1996a)}
       \field{note}{1 Nov. 1865}
       \field{title}{Meteorological Register}
       \true{nocite}
     \endentry
-    \entry{ussc:9:1172}{archiveitem}{}{}
+    \entry{ussc:9:1172}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ac3864217845eca6ce8c92291f24557e}{%
            family={Spencer},
@@ -1927,6 +1882,7 @@
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{howpublished}{United States Sanitary Commission Records (GPD E621 .U657 1996a)}
       \field{note}{Medical Director.}
       \field{title}{Consolidated morning report of sanitary condition of Smith's Division camp on Chickahominy 28 May 1862}
       \true{nocite}
@@ -1979,31 +1935,7 @@
       \field{dateera}{ce}
       \true{nocite}
     \endentry
-    \entry{ussc:7:0295}{archiveitem}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=64e9f6ea3eed39307874fbda9125313b}{%
-           family={Suft},
-           familyi={S\bibinitperiod},
-           given={B.\bibnamedelimi Stanton},
-           giveni={B\bibinitperiod\bibinitdelim S\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{64e9f6ea3eed39307874fbda9125313b}
-      \strng{fullhash}{64e9f6ea3eed39307874fbda9125313b}
-      \strng{fullhashraw}{64e9f6ea3eed39307874fbda9125313b}
-      \strng{bibnamehash}{64e9f6ea3eed39307874fbda9125313b}
-      \strng{authorbibnamehash}{64e9f6ea3eed39307874fbda9125313b}
-      \strng{authornamehash}{64e9f6ea3eed39307874fbda9125313b}
-      \strng{authorfullhash}{64e9f6ea3eed39307874fbda9125313b}
-      \strng{authorfullhashraw}{64e9f6ea3eed39307874fbda9125313b}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Report on the mental condition of soldiers from the Newberg Lunatic Asylum}
-      \true{nocite}
-    \endentry
-    \entry{ussc:1:0554}{archiveitem}{}{}
+    \entry{ussc:1:0554}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=9b901e09bc8adbd5a9ffb97c80232a92}{%
            family={Tyler},
@@ -2024,26 +1956,29 @@
       \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{howpublished}{United States Sanitary Commission Records (GPD E621 .U657 1996a)}
       \field{note}{4 Sept. 1865. To Dr. G. R. Andrews. Concerns insanity in soldiers.}
       \field{title}{Michigan Asylum for the Insane}
       \true{nocite}
     \endentry
-    \entry{ussc:3:0421}{archiveitem}{}{}
+    \entry{ussc:3:0421}{misc}{}{}
       \field{sortinit}{U}
       \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
       \field{labeltitlesource}{title}
+      \field{howpublished}{United States Sanitary Commission Records (GPD E621 .U657 1996a)}
       \field{note}{History, organization, location, construction, etc.}
       \field{title}{U.S. General Hospital Lovell; Portsmouth Grove, Rhode Island}
       \true{nocite}
     \endentry
-    \entry{ussc:11:0888}{archiveitem}{}{}
+    \entry{ussc:11:0888}{misc}{}{}
       \field{sortinit}{U}
       \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
       \field{labeltitlesource}{title}
+      \field{howpublished}{United States Sanitary Commission Records (GPD E621 .U657 1996a)}
       \field{title}{Union Prisoners}
       \true{nocite}
     \endentry
-    \entry{ussc:9:1110}{archiveitem}{}{}
+    \entry{ussc:9:1110}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=5641c04ee34403e6cec3efe86060d9f3}{%
            family={Warden},
@@ -2064,7 +1999,25 @@
       \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{howpublished}{United States Sanitary Commission Records (GPD E621 .U657 1996a)}
       \field{title}{Consolidated statement of Mound City General Hospital from its foundation 1 Oct. 1861 to 31 Dec. 1863}
+      \true{nocite}
+    \endentry
+    \entry{ussc:7:0239}{misc}{}{}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{United States Sanitary Commission Records (GPD E621 .U657 1996a)}
+      \field{note}{1864}
+      \field{title}{Weather records}
+      \true{nocite}
+    \endentry
+    \entry{ussc:6:0769}{misc}{}{}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{United States Sanitary Commission Records (GPD E621 .U657 1996a)}
+      \field{title}{Weather Report}
       \true{nocite}
     \endentry
     \entry{Williams2020}{article}{}{}
@@ -2134,7 +2087,7 @@
       \field{dateera}{ce}
       \true{nocite}
     \endentry
-    \entry{ussc:9:1105}{archiveitem}{}{}
+    \entry{ussc:9:1105}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=70a90a2189ade1407ab0ae6c92f02abe}{%
            family={Woodworth},
@@ -2151,38 +2104,13 @@
       \strng{authornamehash}{70a90a2189ade1407ab0ae6c92f02abe}
       \strng{authorfullhash}{70a90a2189ade1407ab0ae6c92f02abe}
       \strng{authorfullhashraw}{70a90a2189ade1407ab0ae6c92f02abe}
-      \field{extraname}{1}
       \field{sortinit}{W}
       \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{howpublished}{United States Sanitary Commission Records (GPD E621 .U657 1996a)}
       \field{note}{Act. Med. Inspector 15th A.C.}
       \field{title}{15th A.C. Tabular statement, showing the percentage taken sick from 1 Sept. 1863 to 1 Apr. 1864}
-      \true{nocite}
-    \endentry
-    \entry{ussc:1:0131}{archiveitem}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=70a90a2189ade1407ab0ae6c92f02abe}{%
-           family={Woodworth},
-           familyi={W\bibinitperiod},
-           given={Jno.\bibnamedelimi M.},
-           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{70a90a2189ade1407ab0ae6c92f02abe}
-      \strng{fullhash}{70a90a2189ade1407ab0ae6c92f02abe}
-      \strng{fullhashraw}{70a90a2189ade1407ab0ae6c92f02abe}
-      \strng{bibnamehash}{70a90a2189ade1407ab0ae6c92f02abe}
-      \strng{authorbibnamehash}{70a90a2189ade1407ab0ae6c92f02abe}
-      \strng{authornamehash}{70a90a2189ade1407ab0ae6c92f02abe}
-      \strng{authorfullhash}{70a90a2189ade1407ab0ae6c92f02abe}
-      \strng{authorfullhashraw}{70a90a2189ade1407ab0ae6c92f02abe}
-      \field{extraname}{2}
-      \field{sortinit}{W}
-      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Report of General Field Hospital, Dept. of Tennessee organized at Chattanooga, TN 23 May 1864}
       \true{nocite}
     \endentry
   \enddatalist

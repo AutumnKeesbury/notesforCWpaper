@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.12.26)  15 OCT 2025 20:39
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.12.26)  15 OCT 2025 22:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -467,30 +467,30 @@ Package csquotes Info: ... none found.
  (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 44.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 44.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 29.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 29.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
 Package biblatex Info: Trying to load language 'english' -> 'cms-american'...
 Package biblatex Info: ... file 'cms-american.lbx' found.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex-chicago/cms-american.lbx
@@ -518,9 +518,9 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  (./main.bbl)
-Package biblatex Info: Reference section=0 on input line 44.
-Package biblatex Info: Reference segment=0 on input line 44.
-Package hyperref Info: Link coloring OFF on input line 44.
+Package biblatex Info: Reference section=0 on input line 29.
+Package biblatex Info: Reference segment=0 on input line 29.
+Package hyperref Info: Link coloring OFF on input line 29.
  (./main.out) (./main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
@@ -563,19 +563,19 @@ Package hyperref Info: Link coloring OFF on input line 44.
 File: iu_trident_web_crimson.png Graphic file (type bmp)
 <iu_trident_web_crimson.png>
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 46.
+(Font)              <12> on input line 31.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 46.
+(Font)              <8> on input line 31.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 46.
+(Font)              <6> on input line 31.
 [1
 
 ]
 Chapter 1.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 58.
+(Font)              <7> on input line 43.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 58.
+(Font)              <5> on input line 43.
 [1
 
 ]
@@ -587,7 +587,7 @@ File: logo.png Graphic file (type bmp)
 <logo.png>
  [3] [4
 
-] [5] [6] [7] (./main.aux)
+] [5] [6] [7] [8] (./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -599,12 +599,12 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 19898 strings out of 474773
- 368894 string characters out of 5757723
- 1950839 words of memory out of 5000000
- 41872 multiletter control sequences out of 15000+600000
+ 19910 strings out of 474773
+ 369081 string characters out of 5757723
+ 1952839 words of memory out of 5000000
+ 41884 multiletter control sequences out of 15000+600000
  561285 words of font info for 61 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  84i,11n,95p,1785b,5503s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.xdv (8 pages, 178636 bytes).
+Output written on main.xdv (9 pages, 238216 bytes).

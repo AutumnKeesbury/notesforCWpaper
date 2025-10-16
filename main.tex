@@ -5,22 +5,7 @@
 \addbibresource{ref.bib}
 \usepackage{hyperref}
 
-\DeclareBibliographyDriver{archiveitem}{%
-  \printfield{title}
-  \newunit\newblock
-  \printlist{author}%
-  \newunit\newblock
-  \printfield{reel}%
-  \newunit\newblock
-  \printfield{frame}%
-  \newunit\newblock
-  \printfield{note}%
-  \finentry
-}
-
 \titleformat{\paragraph}{\normalfont\normalsize\scshape}{}{1em}{}
-
-\DeclareBibliographyAlias{archiveitem}{misc}
 
 \usepackage[a4paper, headheight=1in, margin=1in]{geometry}
 
@@ -84,14 +69,27 @@
   and proximity to bodies of water. 
 
   As might be expected, such a phenomenon, understood as an integration of all possible variables over all others, poses a unique challenge in terms of medical
-  response. It is for this reason that a medicine of epidemics demands a constant supervision and documentation, and that, through continuous a observation
+  response. It is for this reason that a medicine of epidemics demands a constant supervision and documentation, and that, through continuous observation
   of all factors and their necessary interpretation and re-interpretation, the medicine of epidemics \textquote{circumscribes, where gazes meet, the
-  individual, unique nucleus of these collective phenomena} \autocite[pp. 25]{Foucault1994}.
+  individual, unique nucleus of these collective phenomena} \autocite[pp. 25]{Foucault1994}. The knowledge of an epidemic, then, requires a complete
+  yet contradictory set of facts, derived from numerous and heterogeneous gazes distributed regularly throughout the social body. 
+
+  This organizational structure which facilitated the synthesis of a homogeneous picture of an epidemic through the superimposition and cross-checking 
+  of gazes was present in the Armies of the United States during the American Civil War, at all levels of administrative functioning. Regimental
+  surgeons and hospitals were tasked with documenting individual cases, meteorological data, and various other information situated at a similar
+  level. Then there were the surgeons of the general hospitals, tasked with investigating and recording extraordinary cases which may be exemplary,
+  but also with conducting research into the nature of various conditions which were difficult or time-consuming to treat. Lastly, and situated near
+  the highest administrative level, were the doctors who worked directly for the USSC, and whose duty it was to visit and write high-level
+  reports on the conditions of hospitals under the Sanitary Commission's control. Taken together, the USSC encompasses the four parallel,
+  unlimited series which extend the space of medical knowledge infinitely described by Foucault\autocite[pp. 28]{Foucault1994}: the study of topographies 
+  (conducted at the top level by doctors like S.B. Hunt\autocite{ussc:6:0990}), meteorological observations (like those collected by Lyman 
+  \autocite{ussc:6:0112}), monitoring epidemic (see the reports on outbreaks in hospitals\autocite{ussc:9:1198}), and the description of extraordinary 
+  cases (for example Howard's report on a case of death during the administration of chloroform\autocite{ussc:9:0388}).
   % paragraph Epidemic medicine (end)
   % chapter  (end)
 
   \newpage
-  \fancyhead[c]{References}
+  \fancyhead[c]{Bibliography}
   \nocite{*}
   \printbibliography
 \end{document}
