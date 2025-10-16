@@ -37,6 +37,8 @@ INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/csquotes/csquotes.def
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/csquotes/csquotes.cfg
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/csquotes/csquotes.cfg
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/csquotes/csquotes.cfg
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/setspace/setspace.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/setspace/setspace.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/biblatex-chicago/biblatex-chicago.sty
@@ -189,6 +191,18 @@ INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
 OUTPUT main.xdv
+INPUT ./logo.png
+INPUT ./logo.png
+INPUT ./logo.png
+INPUT ./logo.png
+INPUT ./logo.png
+INPUT ./logo.png
+INPUT ./logo.png
+INPUT ./logo.png
+INPUT ./logo.png
+INPUT ./logo.png
+INPUT ./logo.png
+INPUT ./logo.png
 INPUT ./logo.png
 INPUT ./logo.png
 INPUT ./logo.png

@@ -1,17 +1,22 @@
 \documentclass{report}
-\usepackage{graphicx,titling,titlesec, csquotes}
+\usepackage{graphicx,titling,titlesec, csquotes,setspace}
 \usepackage{fancyhdr}
 \usepackage[backend=biber]{biblatex-chicago}
 \addbibresource{ref.bib}
 \usepackage{hyperref}
 
+\linespread{1.15}
+
 \titleformat{\paragraph}{\normalfont\normalsize\scshape}{}{1em}{}
+
+\setlength{\skip\footins}{15pt}
 
 \usepackage[a4paper, headheight=1in, margin=1in]{geometry}
 
 \fancyhf{}
 \fancyhead[c]{\centering{\includegraphics[width=0.05\textwidth]{logo.png}}\\ \textsc{University of Indiana}}
-\fancyhead[r]{Keesbury \thepage}
+\fancyhead[r]{Keesbury}
+\fancyfoot[c]{\thepage}
 
 \newcommand{\logo}[2]{
   \pretitle{
@@ -54,7 +59,7 @@
   Indeed, much of the literature on the medical aspects of the Civil War concerns the techniques of care, or otherwise the more individual aspects 
   (\citeauthor{Devine2016} \citedate{Devine2016}). It is this gap, most of all, that I wish to fill. In order to do this, I want to look at the notes of and
   correspondences of doctors working with the United States Sanitary Commission (USSC) both during and immediately following the war. In these materials 
-  (those which are most prescient to this investigation are included in the References), I have noticed several very interesting patterns, and, since I have
+  (those which are most prescient to this investigation are included in the bibliography), I have noticed several very interesting patterns, and, since I have
   been reading these records at the same time as I have been reading Foucault's \textit{The Birth of the Clinic}, I have been able to connect theory to
   content, and \textit{vice versa} \autocite{Foucault1994}.
 
@@ -81,7 +86,7 @@
   but also with conducting research into the nature of various conditions which were difficult or time-consuming to treat. Lastly, and situated near
   the highest administrative level, were the doctors who worked directly for the USSC, and whose duty it was to visit and write high-level
   reports on the conditions of hospitals under the Sanitary Commission's control. Taken together, the USSC encompasses the four parallel,
-  unlimited series which extend the space of medical knowledge infinitely described by Foucault\autocite[pp. 28]{Foucault1994}: the study of topographies 
+  unlimited series which extend the space of medical knowledge infinitely, described by Foucault\autocite[pp. 28]{Foucault1994}: the study of topographies 
   (conducted at the top level by doctors like S.B. Hunt\autocite{ussc:6:0990}), meteorological observations (like those collected by Lyman 
   \autocite{ussc:6:0112}), monitoring epidemic (see the reports on outbreaks in hospitals\autocite{ussc:9:1198}), and the description of extraordinary 
   cases (for example Howard's report on a case of death during the administration of chloroform\autocite{ussc:9:0388}).
@@ -89,7 +94,6 @@
   % chapter  (end)
 
   \newpage
-  \fancyhead[c]{Bibliography}
   \nocite{*}
   \printbibliography
 \end{document}
