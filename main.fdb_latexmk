@@ -1,17 +1,17 @@
 # Fdb version 4
-["biber main"] 1760565016.03053 "main.bcf" "main.bbl" "main" 1760568823.81772 0
-  "main.bcf" 1760568823.52106 161027 d3e95101427e0cd7b0d97c860c0d5457 "xelatex"
+["biber main"] 1760575145.513 "main.bcf" "main.bbl" "main" 1760575149.80173 0
+  "main.bcf" 1760575149.48474 161163 b13058b05e0187b5ffbb479929119aa6 "xelatex"
   "ref.bib" 1760564116.24449 27627 ad7e39ab811c6991761470bb9ca45216 ""
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["xdvipdfmx"] 1760568823.55494 "main.xdv" "main.pdf" "main" 1760568823.81846 0
-  "main.xdv" 1760568823.52215 162700 60ba8c24facfd7b5b1358be2aef6815a "xelatex"
+["xdvipdfmx"] 1760575149.51957 "main.xdv" "main.pdf" "main" 1760575149.80254 0
+  "main.xdv" 1760575149.48553 178636 0464d9982ee44dfb07be50044065e377 "xelatex"
   (generated)
   "main.pdf"
   (rewritten before read)
-["xelatex"] 1760568822.11395 "main.tex" "main.xdv" "main" 1760568823.81779 0
+["xelatex"] 1760575148.06259 "main.tex" "main.xdv" "main" 1760575149.80181 0
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
@@ -61,6 +61,9 @@
   "/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/blx-unicode.def" 1609451401 3786 1f89d14780f0ad89ab94652b37f4e9b8 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/lbx/american.lbx" 1342308459 169 40f2892b6b9cee1ffa9c07b78605a5a1 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/lbx/english.lbx" 1711143581 40021 daa5a82ed0967f3ac4b77cb8384cac55 ""
+  "/usr/local/texlive/2024/texmf-dist/tex/latex/csquotes/csquotes.cfg" 1429144587 7068 06f8d141725d114847527a66439066b6 ""
+  "/usr/local/texlive/2024/texmf-dist/tex/latex/csquotes/csquotes.def" 1663185836 21994 2bc2a882df92d97dbce35c06bb1d3541 ""
+  "/usr/local/texlive/2024/texmf-dist/tex/latex/csquotes/csquotes.sty" 1663185836 62761 3c92d495a9e03d7254b9a3266aa17164 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/etoolbox/etoolbox.sty" 1601931149 46845 3b58f70c6e861a13d927bff09d35ecbc ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty" 1668028059 18450 88279bf67c81e69f8e3f1c1bad1a26c5 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/geometry/geometry.sty" 1578002852 41601 9cf6c5257b1bc7af01a58859749dd37a ""
@@ -92,11 +95,12 @@
   "/usr/local/texlive/2024/texmf-var/web2c/xetex/xelatex.fmt" 1735251190 10850165 cf86fb5f8268865a7292704ffeeddfd7 ""
   "/usr/local/texlive/2024/texmf.cnf" 1736870601.52976 622 7227d38535d975e6b0dc246caaffa333 ""
   "iu_trident_web_crimson.png" 1469019259 973 ecb89b759fef92cee3abf83c2ab1110b ""
-  "main.aux" 1760568823.51883 9930 01fd7d8b54e0052190662ad84b933609 "xelatex"
-  "main.bbl" 1760565016.79571 94580 871818c7ab94d164e83ff66581f65821 "biber main"
-  "main.out" 1760568823.52015 332 593b0620bfc0a8ab7d070b0cc3ab1f6a "xelatex"
-  "main.run.xml" 1760568823.52207 2381 4f4f1bba49f68201722d3ad1d24ada5d "xelatex"
-  "main.tex" 1760568821.95825 3956 62b74faf0848937bf24d5aab67227c89 ""
+  "logo.png" 1759970274.64315 1526 4dc9b569c8b825fdee9b6796e3e3844e ""
+  "main.aux" 1760575149.47933 10106 17062fb3c038f20e8d7037d41bcbd71b "xelatex"
+  "main.bbl" 1760575146.55738 94580 871818c7ab94d164e83ff66581f65821 "biber main"
+  "main.out" 1760575149.48156 332 593b0620bfc0a8ab7d070b0cc3ab1f6a "xelatex"
+  "main.run.xml" 1760575149.48545 2381 4f4f1bba49f68201722d3ad1d24ada5d "xelatex"
+  "main.tex" 1760575141.99194 5475 8368b4b7e65a6011f7a2bdfcfca1b58f ""
   (generated)
   "main.aux"
   "main.bcf"
