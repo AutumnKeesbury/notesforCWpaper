@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.12.26)  16 OCT 2025 20:36
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.12.26)  17 OCT 2025 18:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -532,16 +532,16 @@ Package hyperref Info: Link coloring OFF on input line 34.
 *geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
 * driver: xetex
-* paper: a4paper
+* paper: letterpaper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(72.26999pt, 452.9679pt, 72.26999pt)
-* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=452.9679pt
-* \textheight=700.50687pt
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
 * \oddsidemargin=0.0pt
 * \evensidemargin=0.0pt
 * \topmargin=-97.26999pt
@@ -575,21 +575,20 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ]
 Chapter 1.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 48.
+(Font)              <7> on input line 44.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 48.
+(Font)              <5> on input line 44.
 [1
-
-]
-Chapter 2.
-[2
 
 ]
 File: logo.png Graphic file (type bmp)
 <logo.png>
- [3] [4
+ [2] [3
 
 ]
+File: logo.png Graphic file (type bmp)
+<logo.png>
+ [4]
 File: logo.png Graphic file (type bmp)
 <logo.png>
  [5]
@@ -598,27 +597,24 @@ File: logo.png Graphic file (type bmp)
  [6]
 File: logo.png Graphic file (type bmp)
 <logo.png>
- [7]
-File: logo.png Graphic file (type bmp)
-<logo.png>
- [8] (./main.aux)
+ [7] (./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 593B0620BFC0A8AB7D070B0CC3AB1F6A;332.
+(rerunfilecheck)             Checksum: 57F9893C7C9015C9F9010EF063D00CDB;308.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 19956 strings out of 474773
- 370035 string characters out of 5757723
- 1947839 words of memory out of 5000000
- 41926 multiletter control sequences out of 15000+600000
+ 19954 strings out of 474773
+ 369996 string characters out of 5757723
+ 1945839 words of memory out of 5000000
+ 41924 multiletter control sequences out of 15000+600000
  561285 words of font info for 61 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  84i,11n,95p,1785b,5503s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.xdv (9 pages, 254256 bytes).
+Output written on main.xdv (8 pages, 241928 bytes).

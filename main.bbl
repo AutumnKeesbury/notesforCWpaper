@@ -628,6 +628,7 @@
       \field{title}{Discipline and punish}
       \field{year}{1995}
       \field{dateera}{ce}
+      \true{nocite}
     \endentry
     \entry{Foucault1994}{book}{}{}
       \name{author}{1}{}{%
