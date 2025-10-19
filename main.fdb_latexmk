@@ -1,17 +1,17 @@
 # Fdb version 4
-["biber main"] 1760730911.81365 "main.bcf" "main.bbl" "main" 1760896531.717 0
-  "main.bcf" 1760896531.39682 161431 64bc596291cb6879bb0f2ac24addb097 "xelatex"
+["biber main"] 1760730911.81365 "main.bcf" "main.bbl" "main" 1760897718.51237 0
+  "main.bcf" 1760897718.19832 161431 64bc596291cb6879bb0f2ac24addb097 "xelatex"
   "ref.bib" 1760581569.84355 29991 a314fd9666b232d7b720af78d6da7ec2 ""
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["xdvipdfmx"] 1760896531.43132 "main.xdv" "main.pdf" "main" 1760896531.71777 0
-  "main.xdv" 1760896531.39763 241852 fa81294233ce0fcc6860a5bfd38bb555 "xelatex"
+["xdvipdfmx"] 1760897718.23617 "main.xdv" "main.pdf" "main" 1760897718.51312 0
+  "main.xdv" 1760897718.1995 241448 d5f7243b64b8bc2ff5bfb3b17dd180b0 "xelatex"
   (generated)
   "main.pdf"
   (rewritten before read)
-["xelatex"] 1760896529.7134 "main.tex" "main.xdv" "main" 1760896531.71707 0
+["xelatex"] 1760897716.75807 "main.tex" "main.xdv" "main" 1760897718.51243 0
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
@@ -97,11 +97,11 @@
   "/usr/local/texlive/2024/texmf.cnf" 1736870601.52976 622 7227d38535d975e6b0dc246caaffa333 ""
   "iu_trident_web_crimson.png" 1469019259 973 ecb89b759fef92cee3abf83c2ab1110b ""
   "logo.png" 1759970274.64315 1526 4dc9b569c8b825fdee9b6796e3e3844e ""
-  "main.aux" 1760896531.39267 10331 c0d0bb65a1de3f760d2ef7a1701aab39 "xelatex"
+  "main.aux" 1760897718.19302 10331 8d4b6acc116516aeb3bc90365c37655b "xelatex"
   "main.bbl" 1760730912.71691 93387 45700a084f02044d6349a1bc6e9d4795 "biber main"
-  "main.out" 1760896531.39458 308 57f9893c7c9015c9f9010ef063d00cdb "xelatex"
-  "main.run.xml" 1760896531.39755 2381 4f4f1bba49f68201722d3ad1d24ada5d "xelatex"
-  "main.tex" 1760896526.48249 7604 8409a5ae8c983b543a2da562eea46e51 ""
+  "main.out" 1760897718.19623 308 57f9893c7c9015c9f9010ef063d00cdb "xelatex"
+  "main.run.xml" 1760897718.19942 2381 4f4f1bba49f68201722d3ad1d24ada5d "xelatex"
+  "main.tex" 1760897714.66197 7565 90b238afb9777c51ebd1da6907a1ecdd ""
   (generated)
   "main.aux"
   "main.bcf"
