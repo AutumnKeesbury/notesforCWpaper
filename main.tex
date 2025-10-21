@@ -33,10 +33,15 @@
 
 \begin{document}
   \maketitle
-  \thispagestyle{empty}
-  \newpage
-  \pagestyle{fancy}
 
+  \newpage
+  \renewcommand\thepage{\romannumeral\numexpr\value{page}-1\relax}
+  \tableofcontents
+  \newpage
+
+  \pagenumbering{arabic}
+
+  \pagestyle{fancy}
 
   \chapter{Military-Clinical Spaces}\label{chap: 1} % (fold)
   
@@ -96,6 +101,7 @@
   % chapter  (end)
 
   \newpage
-  \nocite{*}
+  \addcontentsline{toc}{chapter}{Bibliography}
   \printbibliography
+ 
 \end{document}
